@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Workflow Screenshot](ss.png)
+
 This project provides an automated Retrieval-Augmented Generation (RAG) workflow for answering questions about Nepal’s National AI Policy. Built with n8n, it integrates document Q&A, vector search, and multi-channel automation to deliver accurate responses via both Gmail and chat interfaces.
 
 ## Features
